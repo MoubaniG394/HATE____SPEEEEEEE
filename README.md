@@ -1,2 +1,2 @@
-# HATE____SPEEEEEEE
+# SocialShield
 Effective extension for Instagram, focused on monitoring and detecting hate speech and offensive language within English-language comments poste  d on a politician's page. This project will leverage advanced techniques, including vectorization techniques and NLP with LSTM to provide a user-friendly interface that highlights and categorizes hate speech comments for improved social media 
